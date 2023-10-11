@@ -8,15 +8,15 @@
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "price": 29.99,
-      "imageUrl": "https://example.com/images/product-2.jpg"
+      "name": "Nồi chiên không dầu",
+      "price": "2.990.000 ₫",
+      "imageUrl": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/4/637716650072183857_noi-chien-khong-dau-dien-tu-magic-eco-6-lit-ac-110-den-1.jpg"
     },
     {
       "id": 3,
-      "name": "Product 3",
-      "price": 39.99,
-      "imageUrl": "https://example.com/images/product-3.jpg"
+      "name": "Nồi chiên không dầu",
+      "price": "1.990.000 ₫",
+      "imageUrl": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/30/638237428664257185_noi-chien-khong-dau-Kangaroo-6-lit-KG6AF1-6.png"
     },
     {
       "id": 4,
@@ -26,9 +26,9 @@
     },
     {
       "id": 5,
-      "name": "Product 5",
-      "price": 59.99,
-      "imageUrl": "https://example.com/images/product-5.jpg"
+      "name": "Máy ép chậm",
+      "price": "1.690.000 ₫",
+      "imageUrl": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/4/637716638979492580_may-ep-cham-magic-eco-ac-131-xanh-1.jpg"
     },
     {
       "id": 6,
