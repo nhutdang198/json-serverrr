@@ -3,62 +3,44 @@
     {
       "id": 1,
       "name": "Bình đun siêu tốc",
-      "price": "329.000 đ",
+      "price": 329000,
       "imageUrl": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149038661660695_Goldsun-GKT2607G-02.jpg"
     },
     {
       "id": 2,
       "name": "Nồi chiên không dầu",
-      "price": "2.990.000 ₫",
+      "price": 2990000,
       "imageUrl": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/4/637716650072183857_noi-chien-khong-dau-dien-tu-magic-eco-6-lit-ac-110-den-1.jpg"
     },
     {
       "id": 3,
       "name": "Nồi chiên không dầu",
-      "price": "1.990.000 ₫",
+      "price": 1990000,
       "imageUrl": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/6/30/638237428664257185_noi-chien-khong-dau-Kangaroo-6-lit-KG6AF1-6.png"
     },
     {
       "id": 4,
-      "name": "Product 4",
-      "price": 49.99,
-      "imageUrl": "https://example.com/images/product-4.jpg"
+      "name": "Bếp điện từ",
+      "price": 1190000,
+      "imageUrl": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/6/25/637602379352637850_bep-dien-tu-kangaroo-kg408i-ct-1.jpg"
     },
     {
       "id": 5,
       "name": "Máy ép chậm",
-      "price": "1.690.000 ₫",
+      "price": 1690000,
       "imageUrl": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/4/637716638979492580_may-ep-cham-magic-eco-ac-131-xanh-1.jpg"
     },
     {
       "id": 6,
-      "name": "Product 6",
-      "price": 69.99,
-      "imageUrl": "https://example.com/images/product-6.jpg"
+      "name": "Máy xay sinh tố",
+      "price": 849000,
+      "imageUrl": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/2/15/638120752296480861_may-xay-sinh-to-sunhouse-shd5312g-1.jpg"
     },
     {
       "id": 7,
-      "name": "Product 7",
-      "price": 79.99,
-      "imageUrl": "https://example.com/images/product-7.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Product 8",
-      "price": 89.99,
-      "imageUrl": "https://example.com/images/product-8.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Product 9",
-      "price": 99.99,
-      "imageUrl": "https://example.com/images/product-9.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Product 10",
-      "price": 109.99,
-      "imageUrl": "https://example.com/images/product-10.jpg"
+      "name": "Nồi cơm điện",
+      "price": 1090000,
+      "imageUrl": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/10/637825020230553588_noi-com-dien-sharp-1-8-lit-ks-n191etv-sb-trang-1.jpg"
     }
   ]
 }
