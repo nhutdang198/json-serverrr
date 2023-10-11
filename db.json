@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "price": 19.99,
-      "imageUrl": "https://example.com/images/product-1.jpg"
+      "name": "Bình đun siêu tốc",
+      "price": "329.000 đ",
+      "imageUrl": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/20/638149038661660695_Goldsun-GKT2607G-02.jpg"
     },
     {
       "id": 2,
